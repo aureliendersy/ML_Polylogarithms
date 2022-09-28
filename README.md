@@ -3,9 +3,17 @@
 This repository contains the data, python code and pretrained models necessary for obtaining the results quoted in "Simplifying Polylogarithms with
 Machine Learning". 
 
+### Requirements
+
 To install the requirements:
 
 pip install -r requirements.txt
+
+
+### Data Generation and Training
+See the individual Readme files under the relevant folders
+
+### Datasets
 
 The datasets can be found at
 
@@ -18,7 +26,8 @@ Transformer: Weight3 | [Link1](https://drive.google.com/drive/folders/14yxe3-ZZt
 Transformer: Weight4 | [Link](https://drive.google.com/drive/folders/10hiLGLCbpsR7z9oy_UHObr2Z8WHbMB28?usp=sharing)
 
 
-and the models under
+### Models
+The models are found under
 
 Dataset | Link 
 --- | --- 
