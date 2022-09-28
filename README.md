@@ -21,10 +21,10 @@ The generated datasets can be found at
 Dataset | Link 
 --- | --- 
 Reinforcement Learning | [Link](https://drive.google.com/uc?export=download&id=1DlHkAlNntYz4CSWG3-HFpAnJR1KzgjMH)
-Transformer: Functional Data | [Link](https://drive.google.com/drive/folders/1hgIoPE-XkocqLPGPakP2UFDkeqn1FC7N?usp=sharing)
-Transformer: Weight2 | [Link1](https://drive.google.com/drive/folders/1NOoJJOADCA3ypKTmL9OMrvt0zmEjSNd_?usp=sharing)\ [Link2](https://drive.google.com/drive/folders/1JyLWyc9yaGDetpKiuPy8rYATG39Hf1v_?usp=sharing)
-Transformer: Weight3 | [Link1](https://drive.google.com/drive/folders/14yxe3-ZZtp0QvrXUhJe4ehCpHkBzeZIv?usp=sharing)\ [Link2](https://drive.google.com/drive/folders/1FXDgkXn01pmuTDmD7p7uEcdB-V78NMcX?usp=sharing)
-Transformer: Weight4 | [Link](https://drive.google.com/drive/folders/10hiLGLCbpsR7z9oy_UHObr2Z8WHbMB28?usp=sharing)
+Transformer: Functional Data | [Link](https://drive.google.com/uc?export=download&id=18txKweTIGjjYhuB0lFPsVLB0XAK61vEp)
+Transformer: Weight2 | [Link](https://drive.google.com/uc?export=download&id=1HMsT6oqeyXrhea6RQ2ot8Ln4y3vKvx4r)
+Transformer: Weight3 | [Link](https://drive.google.com/uc?export=download&id=1TXIZGX_Yh97NIWj81ACZ5kVxJLK751rK)
+Transformer: Weight4 | [Link](https://drive.google.com/uc?export=download&id=1jA0sHsM1H4IKZ5VxrOZa6ud1hnoPH2ZY)
 
 
 ### Models
@@ -32,8 +32,8 @@ The trained models are found under
 
 Dataset | Link 
 --- | --- 
-Reinforcement Learning | [Link](https://drive.google.com/drive/folders/1W_4hKmxzFxtri_QeVwzYFELNBlEQP87y?usp=sharing)
-Transformer: | [Link](https://drive.google.com/drive/folders/1W_4hKmxzFxtri_QeVwzYFELNBlEQP87y?usp=sharing)
+Reinforcement Learning | [Link](https://drive.google.com/uc?export=download&id=1xtFzbdPaCOVrGal7N1TQ720nRj6gmApn)
+Transformer: | [Link](https://drive.google.com/uc?export=download&id=1i7KrGP_j48I9UfGOAK2aUEIOSa3D1iIx)
 
 
 This work is licensed under a
