@@ -33,7 +33,7 @@ The trained models are found under
 Dataset | Link 
 --- | --- 
 Reinforcement Learning | [Link](https://drive.google.com/uc?export=download&id=1xtFzbdPaCOVrGal7N1TQ720nRj6gmApn)
-Transformer: | [Link](https://drive.google.com/uc?export=download&id=1i7KrGP_j48I9UfGOAK2aUEIOSa3D1iIx)
+Transformer | [Link](https://drive.google.com/uc?export=download&id=1i7KrGP_j48I9UfGOAK2aUEIOSa3D1iIx)
 
 
 This work is licensed under a
