@@ -18,11 +18,9 @@ See the individual Readme files under the relevant folders
 
 The generated datasets can be found at
 
-[lin_test](https://drive.google.com/uc?export=download&id=1gNEH9vlFJosnyUG3_N83905dlhwTVTbj)
-
 Dataset | Link 
 --- | --- 
-Reinforcement Learning | [Link](https://drive.google.com/drive/folders/1gNEH9vlFJosnyUG3_N83905dlhwTVTbj?usp=sharing)
+Reinforcement Learning | [Link](https://drive.google.com/uc?export=download&id=1DlHkAlNntYz4CSWG3-HFpAnJR1KzgjMH)
 Transformer: Functional Data | [Link](https://drive.google.com/drive/folders/1hgIoPE-XkocqLPGPakP2UFDkeqn1FC7N?usp=sharing)
 Transformer: Weight2 | [Link1](https://drive.google.com/drive/folders/1NOoJJOADCA3ypKTmL9OMrvt0zmEjSNd_?usp=sharing)\ [Link2](https://drive.google.com/drive/folders/1JyLWyc9yaGDetpKiuPy8rYATG39Hf1v_?usp=sharing)
 Transformer: Weight3 | [Link1](https://drive.google.com/drive/folders/14yxe3-ZZtp0QvrXUhJe4ehCpHkBzeZIv?usp=sharing)\ [Link2](https://drive.google.com/drive/folders/1FXDgkXn01pmuTDmD7p7uEcdB-V78NMcX?usp=sharing)
