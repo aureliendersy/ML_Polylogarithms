@@ -16,7 +16,7 @@ See the individual Readme files under the relevant folders
 
 ### Datasets
 
-The datasets can be found at
+The generated datasets can be found at
 
 Dataset | Link 
 --- | --- 
@@ -28,7 +28,7 @@ Transformer: Weight4 | [Link](https://drive.google.com/drive/folders/10hiLGLCbps
 
 
 ### Models
-The models are found under
+The trained models are found under
 
 Dataset | Link 
 --- | --- 
