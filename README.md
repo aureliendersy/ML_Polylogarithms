@@ -7,8 +7,9 @@ Machine Learning".
 
 To install the requirements:
 
+```shell
 pip install -r requirements.txt
-
+```
 
 ### Data Generation and Training
 See the individual Readme files under the relevant folders
